@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIEL EDITING</title>
+</head>
+
+<body bgcolor="grey">
+    <font color = "white">
+        <h1 id="atas">DIEL'S EDITS</h1>
+    <h2> JASA VIDEO EDITING
+    </font>
+    <p> 
+    <hr>
+    </p>
+<center>
+<table border="0" width="900" cellspacing="0" cellpadding="15">
+    <tr bgcolor="black">
+    <td align="center">
+    <font color="white" size="5">
+    <b>LIST HARGA EDITING</b>
+    </font>
+    </td>
+    </tr>
+</table>
+
+<br>
+
+<table border="0" width="900" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="650" align="top">
+
+<table border="1" width="100%" cellspacing="0" cellpadding="8">
+    <tr bgcolor="black">
+    <th>
+    <font color="white">NO</font>
+    </th>
+    <th>
+    <font color="white">WAKTU DAN KETERANGAN</font>
+    </th>
+    <th>
+    <font color="white">Harga (Rp)</font>
+    </th>
+    </tr>
+
+    <tr bgcolor="white">
+        <td align="center">1</td>
+        <td>1 - 5 MENIT</td>
+        <td align="right">50K - 80K</td>
+    </tr>
+
+    <tr bgcolor="yellow">
+        <td align="center">2</td>
+        <td> 1 - 5 MENIT (REQUEST)</td>
+        <td align="right">100K - 300K</td>
+    </tr>
+    <tr bgcolor="orange">
+        <td align="center">3</td>
+        <td> 10 - 20  MENIT</td>
+        <td align="right">100K - 250K</td>
+    </tr>
+    <tr bgcolor="pink">
+        <td align="center">4</td>
+        <td>10 - 20  MENIT (REQUEST)</td>
+        <td align="right">250K- 1.000K</td>
+    </tr>
+    <tr bgcolor="red">
+        <td align="center">5</td>
+        <td>FULL REQUEST</td>
+        <td align="right">1.000K - MORE</td>
+    </tr>
+</table>
+
+</td>
+
+<td width="30">
+</td>
+
+<td width="250" valign="top">
+
+<table border="1" width="100%" cellspacing="0" cellpadding="8">
+
+    <tr bgcolor="black">
+     <th colspan="2">
+    <font color="white">
+    SOCIAL MEDIA
+    </font>
+    </th>
+    </tr>
+    <tr bgcolor="pink">
+    <td>
+    <font color="black">
+    <b>INSTAGRAM</b>
+    </font>
+    </td>
+
+    <td align="center">
+    <font color="black">
+    <a href="https://www.instagram.com/fdlhilm_?stkn=MWxzczBpamtrbXk0YQ==">@fdlhilm_</a>
+    </font>
+    </td>
+    </tr>
+
+    <tr>
+    <tr bgcolor="white">   
+    <td>EMAIL</td>
+    <td align="center">fadiel123@gmail.com</td>
+    </tr>
+
+    <tr>
+    <tr bgcolor="cyan">
+    <td>CONTACT PERSON</td>
+    <td align="center">085871150010</td>
+    </tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</center>
+</body>
+</html>
